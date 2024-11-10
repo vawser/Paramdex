@@ -93,7 +93,7 @@
       <UnkC0>RANKER</UnkC0>
       <UnkC8>ランカー</UnkC8>
     </Field>
-    <Field Def="u32 cash">
+    <Field Def="u32 initalCash">
       <DisplayName>報酬額</DisplayName>
       <Description>報酬金額</Description>
       <EditFlags>None</EditFlags>
@@ -103,7 +103,7 @@
       <UnkC0>REWARD</UnkC0>
       <UnkC8>初回報酬</UnkC8>
     </Field>
-    <Field Def="u32 osExp">
+    <Field Def="u32 initialOsExp">
       <DisplayName>経験値</DisplayName>
       <Description>経験値</Description>
       <EditFlags>None</EditFlags>
@@ -121,7 +121,7 @@
       <UnkB8>firstReward</UnkB8>
       <UnkC0>REWARD</UnkC0>
     </Field>
-    <Field Def="u32 cash">
+    <Field Def="u32 repeatCash">
       <DisplayName>報酬額</DisplayName>
       <Description>報酬金額</Description>
       <EditFlags>None</EditFlags>
@@ -131,7 +131,7 @@
       <UnkC0>REWARD</UnkC0>
       <UnkC8>再戦報酬</UnkC8>
     </Field>
-    <Field Def="u32 osExp">
+    <Field Def="u32 repeatOsExp">
       <DisplayName>経験値</DisplayName>
       <Description>経験値</Description>
       <EditFlags>None</EditFlags>
