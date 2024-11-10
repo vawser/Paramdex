@@ -93,7 +93,7 @@
       <UnkC0>RANKER</UnkC0>
       <UnkC8>ランカー</UnkC8>
     </Field>
-    <Field Def="u32 initalCash">
+    <Field Def="u32 initialCash">
       <DisplayName>報酬額</DisplayName>
       <Description>報酬金額</Description>
       <EditFlags>None</EditFlags>
